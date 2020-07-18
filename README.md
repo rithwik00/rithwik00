@@ -1,8 +1,6 @@
 ### Hi there, here is What I'm Working On! 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently ...a third year computer engineering Student
 - 🌱 I’m currently learning ... Data Science and ML
 - 👯 I’m looking to collaborate on ... Data Science and ML
