@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with ... improving algorithms and data-structure 
 - 💬 Ask me about ... Anything 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Statistics #
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=rithwik00&show_icons=true&theme=tokyonight)
 
