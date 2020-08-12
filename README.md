@@ -8,12 +8,9 @@
 - 🌱 I’m currently exploring ... Data Science and ML
 - 🤔 I’m looking for help with ... improving algorithms and data-structure 
 - 💬 Ask me about ... Anything 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love to travel
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rithwik00&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=rithwik00&show_icons=true&theme=tokyonight)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Most Used Language #
