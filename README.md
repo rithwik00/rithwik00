@@ -4,7 +4,7 @@
 ### Hi there, 👋
 
 
-- 🔭 I’m currently ...a third year computer engineering Student
+- 🔭 I’m currently ... a Final year Computer Engineering Student
 - 🌱 I’m currently exploring ... Data Science and ML
 - 🤔 I’m looking for help with ... improving algorithms and data-structure 
 - 💬 Ask me about ... Anything 
