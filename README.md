@@ -4,8 +4,8 @@
 ### Hi there, 👋
 
 
-- 🔭 I’m currently ... a Final year Computer Engineering Student
-- 🌱 I’m currently exploring ... Data Science and ML
+- 🔭 I’m currently ... Final year Computer Engineering Student
+- 🌱 I’m currently exploring ... Data Analytics and ML
 - 🤔 I’m looking for help with ... improving algorithms and data-structure 
 - 💬 Ask me about ... Anything 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
