@@ -5,8 +5,7 @@
 
 
 - 🔭 I’m currently ... Final year Computer Engineering Student
-- 🌱 I’m currently exploring ... Data Analytics and Quality Testing 
-- 🤔 I’m looking for help with ... DSA and Automation tools for QT
+- 🌱 I’m currently exploring ... Data Analytics
 - 💬 Ask me about ... Anything 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Statistics #
