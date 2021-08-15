@@ -1,4 +1,14 @@
- 📫 [![Linkedin Badge](https://img.shields.io/badge/-rithwik_sv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithwiksv/)](https://www.linkedin.com/in/rithwiksv/) [![Gmail Badge](https://img.shields.io/badge/-vedpathakrithwik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedpathakrithwik@gmail.com)](mailto:vedpathakrithwik@gmail.com) [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/rithwiksv/)
+ <a href="https://in.linkedin.com/in/rithwiksv">
+    <img align="left" alt="Rithwik V. | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ </a>
+ <a href="https://www.instagram.com/rithwiksv/">
+    <img align="left" alt="Rithwik V. | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+ </a>
+  <a href="mailto:vedpathakrithwik@gmail.com">
+    <img align="left" alt="Rithwik V. | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+ </a>
+ <br>
+ 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Hi there,<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
@@ -7,6 +17,7 @@
 - 🔭 I’m currently ... Final year Computer Engineering Student
 - 🌱 I’m currently exploring ... Data Analytics
 - 💬 Ask me about ... Anything 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Statistics #
 
