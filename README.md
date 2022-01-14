@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently ... A Final year Computer Engineering Student
-- 🌱 I’m currently exploring ... Java and Data Analytics
+- 🌱 I’m currently deep diving ... Java 
 - 💬 Ask me about ... Anything 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
